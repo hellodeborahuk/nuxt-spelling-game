@@ -5,6 +5,9 @@
 .primary-btn {
     @apply bg-teal-500 text-white font-semibold px-4 py-2 rounded;
 }
+.secondary-btn {
+    @apply bg-orange-600 text-white font-semibold px-4 py-2 rounded;
+}
 
 .primary-input {
     @apply p-2 border-teal-500 rounded border w-full;
